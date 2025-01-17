@@ -1,1 +1,8 @@
-Urban Dynamics Ltd. specializes in building smart cities, public parks, and urban infrastructure. Our projects enhance city life with advanced facilities, sustainable designs, and aesthetically pleasing spaces, ensuring a better quality of life for urban communities.
+# Website Upgrade
+
+This project has been enhanced with additional files to improve functionality:
+
+- `script.js`: Adds interactive JavaScript functionality.
+- `additional-style.css`: Additional styling for enhanced visuals.
+- `form-handler.php`: Handles form submissions.
+- `database-config.php`: Sample database connection file.
